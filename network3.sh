@@ -23,7 +23,7 @@ ${NC}"
 
 # Configuration
 NODE_VERSION="v2.1.1"
-DOWNLOAD_URL="https://network3.io/ubuntu-node-${NODE_VERSION}.tar"
+DOWNLOAD_URL="https://network3.io/ubuntu-node-${NODE_VERSION}.tar.gz"
 SCREEN_NAME="network3"
 NODE_DIR="ubuntu-node"
 
